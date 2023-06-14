@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
+> To identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 
 ## Table of Contents
@@ -23,7 +23,6 @@
 - Among the loans charged off, most of them were having homes as Mortgage, it is advised to lend such cases with higher interest and complete verification.
 - Most no of loans assigned belong to Grade B. Among the charged off, most belonged to Grade B, C & D. It is advised to lend such cases with higher interest rate.
 - Loan amount more than 1 lakh to be carefully verified as it has slightly higher charged off status.
-- Conclusion 4 from the analysis
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
