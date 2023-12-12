@@ -3,11 +3,10 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [General Info]
+* [Technologies Used]
+* [Conclusions]
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - A consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
@@ -17,25 +16,21 @@
 - To understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
 - Data set contains the complete loan data for all loans issued through the time period 2007 t0 2011.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Among the loans charged off, most of them were having homes as Mortgage, it is advised to lend such cases with higher interest and complete verification.
 - Most no of loans assigned belong to Grade B. Among the charged off, most belonged to Grade B, C & D. It is advised to lend such cases with higher interest rate.
 - Loan amount more than 1 lakh to be carefully verified as it has slightly higher charged off status.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
 - library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 
 ## Contact
 Created by [https://github.com/kaushikpaul34] - feel free to contact me!
-
+https://www.linkedin.com/in/kaushik-paul-a31384169
 
 <!-- Optional -->
 <!-- ## License -->
