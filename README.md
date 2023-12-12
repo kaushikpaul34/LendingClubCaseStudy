@@ -25,7 +25,7 @@
 
 
 ## Technologies Used
-- library - version 3.0
+- Python - version 3.0
 
 
 ## Contact
